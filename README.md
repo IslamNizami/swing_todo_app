@@ -45,9 +45,9 @@ Feel free to modify:
   Sound effects by replacing ding.wav and adjusting SoundUtil.java.
   Task behavior and persistence features.
 
-License
-This project is open-source and free to use under the MIT License.
+License:
+  This project is open-source and free to use under the MIT License.
 
-Contact
-Created by IslamNizami – feel free to connect!
+Contact:
+  Created by IslamNizami – feel free to connect!
 
